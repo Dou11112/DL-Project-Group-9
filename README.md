@@ -1,7 +1,7 @@
 # Deep Dive Project -- UIUC GPA / Group 9
 
 ## Project Name
-Grade Distribution Prediction with Deep Learning
+UIUC GPA / Grade Distribution Prediction with Deep Learning
 
 ## Team Members
 Xi Teng
